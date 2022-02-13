@@ -27,7 +27,7 @@ export const products = [
     {
         id: 6,
         image: 'https://lh3.googleusercontent.com/pvqniqShFP44Jutz-x5YeGg7weSqmycq-ZHipNaZFwd_kjzjI6iiQAU-b8kP_4RV7CP1ALAADDEF59niRWdj63J-e6jN7aqqWHJsezzf7pSdllUwx7OzUQdT3seZGc0R5bNwcfgR1n4hrTDvwt6tNwzyP0FQ-fufyynIG37R2HYBBPURbDxFoWGuM_V_ry1R4ntY5VCr8FukN4mbcmej6HMBkP0DJern5iCrpY6FNsL59RSlKdtq_d0kyB_f80kq2KB9xynbDF-hXodfu2bs3vUnG4eMLXzaYqferUhsD72WT-B53i81ct3T3PpVncGFcxgSCE8GSNb6ay0A2Enm6IryqEy8dpbCqVeRy6cXcyhT663pQ0v8JTu3HdBHnIsNxsPMTQ0KBXj-M-IMftspRvox2EGXV48WVEBrxcLq6Ma_MkeTBYlWnM8p38AHijIpiJXrUeA_ZvORqCWgACGta3nA5JZUyqfinxunlwLDsrKhLtbqHgmKNhhktxhAS3I9EHjxBkVj4dS7Nhrmv0Veie__pnjRpvkvGwNSWyJMW0iPVXWk__acDNvICcvH40gTYYn5yTxi6Rm1ZDrdCMQIAo8ebEx7O7igGxAZ6bTnRW-N64GYJo4YcIFzEwRvnljeoGcEKwfd6uKna1CSHfZpo6Ep_UxfbUoIVMSC354vaASVRm4PsW1gTyc86TyHNAGFD49hH9ZDl4C3pIknqnprMkL5=w1046-h657-no?authuser=0',
-        link: 'psilocartsystem.netlify.app',
+        link: 'https://psilocartsystem.netlify.app',
     }
 ]
 
